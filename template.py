@@ -25,6 +25,8 @@ list_of_files = [
     f"{project_name}/pipline/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "notebook/1_EDA_US_visa.ipynb",
+    "notebook/2_Feature_Engineering_and_Model_Training.ipynb",
     "app.py",
     "requirements.txt",
     "Dockerfile",
@@ -33,6 +35,7 @@ list_of_files = [
     "setup.py",
     "config/model.yaml",
     "config/schema.yaml",
+    ".gitignore"
 ]
 
 
